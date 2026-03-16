@@ -4,7 +4,6 @@ Modern ve sade arayüze sahip, **yalnızca Emel Neural** sesini kullanan kalitel
 
 Microsoft Edge TTS altyapısını kullanarak doğal ve akıcı Türkçe seslendirme yapmanızı sağlar.
 
-![Uygulama Görünümü](screenshot.png)
 
 
 
